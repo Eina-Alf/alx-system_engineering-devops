@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-writing my first script 
+task0.where am I?
